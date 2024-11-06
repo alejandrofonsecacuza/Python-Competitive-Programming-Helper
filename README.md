@@ -6,11 +6,12 @@ Un script que permite ejecutar un archivo de Python con entradas desde un archiv
 
 - Python 3.x
 - Linux (Ubuntu recomendado)
-- Text Editor
+- Text Editor (Gedit o Kate)
 
 ## Uso
-1. Crea un archivo in.txt con las entradas necesarias.
-2. Crea un archivo out.txt con la salida esperada.
-3. Ejecuta el script:
+1. En el apartado de plugins pega el código
+2. Crea un archivo in.txt con las entradas necesarias.
+3. Crea un archivo out.txt con la salida esperada.
+4. Ejecuta el plugin:
 
    
